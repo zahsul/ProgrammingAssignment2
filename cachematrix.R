@@ -2,14 +2,14 @@
 ## functions do
 
 ## Write a short comment describing this function
-
+## test
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
 ## Write a short comment describing this function
-
+## test
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
 }
